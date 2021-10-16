@@ -1,17 +1,17 @@
-state,total
-Johor,200412
-Kedah,137801
-Kelantan,125622
-Melaka,59769
-Negeri Sembilan,91416
-Pahang,69512
-Perak,106338
-Perlis,4613
-Pulau Pinang,133832
-Sabah,169008
-Sarawak,224559
-Selangor,658608
-Terengganu,62279
-W.P. Kuala Lumpur,175036
-W.P. Labuan,8286
-W.P. Putrajaya,6202
+state,total,population
+Johor,200412,3794000
+Kedah,137801,2194100
+Kelantan,125622,1928800
+Melaka,59769,937500
+Negeri Sembilan,91416,1129100
+Pahang,69512,1684600
+Perak,106338,2508900
+Perlis,4613,255400
+Pulau Pinang,133832,1774400
+Sabah,169008,3833000
+Sarawak,224559,2822200
+Selangor,658608,6555400
+Terengganu,62279,1275100
+W.P. Kuala Lumpur,175036,13487
+W.P. Labuan,8286,100100
+W.P. Putrajaya,6202,116100
